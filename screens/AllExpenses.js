@@ -1,5 +1,9 @@
+import { Text } from "react-native"
 
-
-const AllExpenses = () => {}
+const AllExpenses = () => {
+    return (
+        <Text>AllExpenses Screen</Text>
+    )
+}
 
 export default AllExpenses
